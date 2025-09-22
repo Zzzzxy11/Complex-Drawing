@@ -4,7 +4,7 @@ void setup(){
 }
 
 void draw(){
-  background(255,255,255);
+  background(196,190,175);
   chair(40,150,70,50);
   person(140,175,60);
   keyboard(210,221,50,20);
